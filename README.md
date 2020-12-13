@@ -17,7 +17,7 @@ This is a tutorial to help you create a newsletter form connected to MailChimp Y
 
 
  -  Rename the file  ``` example.env.development``` to ```env.development```
- - Add your own Instagram Token between the ```" "```
+ - Add your own variables between the ```" "```
 
 
 2.  **Start developing.**
