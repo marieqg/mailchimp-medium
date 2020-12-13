@@ -8,7 +8,7 @@ How to create a newsletter with Mailchimp, Gatsby.js & Netlify</h1>
 
 [![LinkedInArticle](https://miro.medium.com/max/1400/1*_SNXdQ5Ls6u9DonMbSYZww.jpeg)](https://medium.com/javascript-in-plain-english/how-to-create-a-newsletter-with-mailchimp-gatsby-js-netlify-d48778d5c774)
 
-This is a tutorial to help you create a newsletter form connected to MailChimp You can read the all article related to this repository [here](hhttps://medium.com/javascript-in-plain-english/how-to-create-a-newsletter-with-mailchimp-gatsby-js-netlify-d48778d5c774).
+This is a tutorial to help you create a newsletter form connected to MailChimp You can read the all article related to this repository [here](https://medium.com/javascript-in-plain-english/how-to-create-a-newsletter-with-mailchimp-gatsby-js-netlify-d48778d5c774).
 
 
 ## 🚀 Quick start
